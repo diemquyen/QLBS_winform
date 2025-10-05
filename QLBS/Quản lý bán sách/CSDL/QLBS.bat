@@ -1,0 +1,1 @@
+sqlcmd -E -S .\SQLEXPress -f 65001 -i QLBS.sql

@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{934D87E0-B52C-420A-81B4-DDFA88C27E85}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DoAn</RootNamespace>
+    <AssemblyName>DoAn</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=12.8.0.6, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.BonusSkins.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\New folder\banhang\packages\Guna.UI2.WinForms.2.0.4.4\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1586.0\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database.cs" />
+    <Compile Include="dtMuaThueSach.cs">
+      <DependentUpon>dtMuaThueSach.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtMuaThueSach.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtMuaThueSach.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FHDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FHDB.Designer.cs">
+      <DependentUpon>FHDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HDB.cs" />
+    <Compile Include="MUATHUE.cs" />
+    <Compile Include="FDMT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDMT.Designer.cs">
+      <DependentUpon>FDMT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FKhachThue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FKhachThue.Designer.cs">
+      <DependentUpon>FKhachThue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FKhoSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FKhoSach.Designer.cs">
+      <DependentUpon>FKhoSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FNhaXuatBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FNhaXuatBan.Designer.cs">
+      <DependentUpon>FNhaXuatBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSach.Designer.cs">
+      <DependentUpon>FSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoiDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KhoiDong.Designer.cs">
+      <DependentUpon>KhoiDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KhoSach.cs" />
+    <Compile Include="NhaXuatBan.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLBS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLBS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReportHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportHoaDon.Designer.cs">
+      <DependentUpon>ReportHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpMua_Thue_Sach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpMua_Thue_Sach.Designer.cs">
+      <DependentUpon>rpMua_Thue_Sach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rpThueSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rpThueSach.Designer.cs">
+      <DependentUpon>rpThueSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sach.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="FDMT.resx">
+      <DependentUpon>FDMT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FHDB.resx">
+      <DependentUpon>FHDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FKhachThue.resx">
+      <DependentUpon>FKhachThue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FKhoSach.resx">
+      <DependentUpon>FKhoSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FNhaXuatBan.resx">
+      <DependentUpon>FNhaXuatBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSach.resx">
+      <DependentUpon>FSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KhoiDong.resx">
+      <DependentUpon>KhoiDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportHoaDon.resx">
+      <DependentUpon>ReportHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpHoaDon.rdlc" />
+    <EmbeddedResource Include="rpMua_Thue_Sach.resx">
+      <DependentUpon>rpMua_Thue_Sach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rpThueSach.resx">
+      <DependentUpon>rpThueSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinMua.rdlc" />
+    <EmbeddedResource Include="ThongTinThue.rdlc" />
+    <None Include="dtMuaThueSach.xsc">
+      <DependentUpon>dtMuaThueSach.xsd</DependentUpon>
+    </None>
+    <None Include="dtMuaThueSach.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtMuaThueSach.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtMuaThueSach.xss">
+      <DependentUpon>dtMuaThueSach.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QLBS.xsc">
+      <DependentUpon>QLBS.xsd</DependentUpon>
+    </None>
+    <None Include="QLBS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLBS.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLBS.xss">
+      <DependentUpon>QLBS.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\3d_inspiration-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

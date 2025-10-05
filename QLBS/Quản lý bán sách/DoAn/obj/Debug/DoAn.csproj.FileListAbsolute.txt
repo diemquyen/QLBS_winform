@@ -1,0 +1,372 @@
+E:\Project\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\Project\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\Project\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.pdb
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.KhoiDong.resources
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.FKhoSach.resources
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Data.v16.1.dll
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Data.v16.1.xml
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\Project\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+E:\Project\DoAn\DoAn\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.FHoaDon.resources
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.FKhachThue.resources
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.FNhaXuatBan.resources
+E:\Project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Project\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.FSach.resources
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.FDMT.resources
+E:\Project\DoAn\DoAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Project\DoAn\DoAn\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Project\DoAn\DoAn\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Project\DoAn\DoAn\obj\Debug\DoAn.rpMua_Thue_Sach.resources
+E:\Project\DoAn\DoAn\obj\Debug\RdlCompile.cache
+E:\Project\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.FDMT.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.FHoaDon.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.FKhachThue.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.FKhoSach.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.FNhaXuatBan.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.FSach.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.KhoiDong.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.rpMua_Thue_Sach.resources
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\RdlCompile.cache
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\QuocKhanh\Desktop\DoAn\DoAn\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.FDMT.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.FKhachThue.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.FKhoSach.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.FNhaXuatBan.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.FSach.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.Home.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.KhoiDong.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.rpMua_Thue_Sach.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.exe.licenses
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\RdlCompile.cache
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\RdlCompile.compiled
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.rpThueSach.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.FHDB.resources
+C:\Users\MR\Desktop\DA\DoAn\DoAn\bin\Debug\DevExpress.BonusSkins.v16.1.dll
+C:\Users\MR\Desktop\DA\DoAn\DoAn\obj\Debug\DoAn.ReportHoaDon.resources
+C:\Users\MR\Desktop\DoAn\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\MR\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\MR\Desktop\DoAn\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DoAn.exe.config
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DoAn.exe
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DoAn.pdb
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Data.v16.1.xml
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.FDMT.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.FHDB.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.FKhachThue.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.FKhoSach.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.FNhaXuatBan.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.FSach.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.Home.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.KhoiDong.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.ReportHoaDon.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.rpMua_Thue_Sach.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.rpThueSach.resources
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.exe.licenses
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.exe
+D:\Qu_n l_ b_n s_ch\Quản lý bán sách\DoAn\obj\Debug\DoAn.pdb
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DoAn.exe.config
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DoAn.exe
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DoAn.pdb
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DevComponents.DotNetBar2.xml
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Data.v16.1.xml
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.FDMT.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.FHDB.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.FKhachThue.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.FKhoSach.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.FNhaXuatBan.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.FSach.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.Home.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.KhoiDong.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.ReportHoaDon.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.rpMua_Thue_Sach.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.rpThueSach.resources
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.exe.licenses
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.csproj.CopyComplete
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.exe
+D:\QLBS\Quản lý bán sách\DoAn\obj\Debug\DoAn.pdb
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\EnvDTE.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\stdole.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QLBS\Quản lý bán sách\DoAn\bin\Debug\Guna.UI2.dll
